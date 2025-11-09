@@ -1,5 +1,5 @@
 
-# **PWGPT Chat Application**
+# **Custom-ChatGPT Chat Application**
 
 PWGPT is an AI-powered chat application that allows users to interact with a conversational AI model. This application provides concise answers to user queries and offers detailed explanations when requested.
 
@@ -44,5 +44,5 @@ Before you begin, ensure you have the following installed:
      ```
 
 ### **Usage:**
-
+   
 Once the application is running, open your web browser and navigate to `http://127.0.0.1:5000/` to access the chat interface. You can start asking questions, and the AI will respond based on your input.
